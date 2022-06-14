@@ -3,7 +3,7 @@
 <h3 align="center">CS student who wants to be Data Engineer.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=panitnun-6243&label=Profile%20views&color=abb9ff&style=flat" alt="panitnun-6243" width="135"/></p>
-<img align="right" alt="Coding" width="300" style="border-radius:50" src="https://softaxus.com/wp-content/uploads/2020/10/2a53651a35816f499270d8275fd5318f.gif">
+<img align="right" alt="Coding" width="300" style="border-radius:50%!important" src="https://softaxus.com/wp-content/uploads/2020/10/2a53651a35816f499270d8275fd5318f.gif">
 
 - 🔭 I’m currently studying for **a bachelor's degree in Computer Science at the KMUTT University**
 
@@ -33,7 +33,7 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=panitnun-6243&show_icons=true&locale=en&layout=compact&theme=blueberry" alt="panitnun-6243" /></p>
 
 <h3 align="left">My GitHub Trophy:</h3>
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=panitnun-6243&margin-w=10&margin-h=15&theme=nord" alt="panitnun-6243" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=panitnun-6243&margin-w=10&margin-h=15&theme=nord&rank=-?" alt="panitnun-6243" /></a> </p>
 
 <!---
 Panitnun-6243/Panitnun-6243 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
