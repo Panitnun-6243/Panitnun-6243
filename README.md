@@ -1,6 +1,6 @@
 <!-- ![MasterHead](https://www.cirencommunications.com/wp-content/uploads/2015/10/Inside-Banner-Animated.gif) -->
 <h1 align="center">Hi 👋, I'm Panitnun Suvannabun</h1>
-<h3 align="center">CS student who wants to be Data Engineer.</h3>
+<h3 align="center">CS student who wants to become a Data Engineer.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=panitnun-6243&label=Profile%20views&color=abb9ff&style=flat" alt="panitnun-6243" width="135"/></p>
 <img align="right" alt="Coding" width="300" style="border-radius:50%!important" src="https://softaxus.com/wp-content/uploads/2020/10/2a53651a35816f499270d8275fd5318f.gif">
