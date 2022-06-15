@@ -9,9 +9,9 @@
 
 - 🌱 I’m currently learning **Pytorch**
 
-- 🤝 I’m looking for help with **Data engineering knowledge**
+- 💖 I’m enthusiastic about **Data engineering knowledge**
 
-- 💬 Ask me about **React, Flask, MySQL**
+- 💬 Ask me about **Python, Javascript, PostgreSQL**
 
 - 📫 How to reach me **panitnun.6243@gmail.com**
 
