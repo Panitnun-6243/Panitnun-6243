@@ -7,15 +7,13 @@
 
 - 🔭 I’m currently studying for **a bachelor's degree in Computer Science at the KMUTT University**
 
-- 🌱 I’m currently learning **Pytorch**
+- 🌱 I’m currently learning **YoloV5**
 
 - 💖 I’m enthusiastic about **Data engineering knowledge**
 
 - 💬 Ask me about **Python, Javascript, PostgreSQL**
 
 - 📫 How to reach me **panitnun.6243@gmail.com**
-
-- ⚡ Fun fact **I'm a lazy guy who wants to sleep all the time**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
